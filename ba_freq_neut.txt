@@ -1,0 +1,13 @@
+			*ni+[+velar]	PU
+ba+nvstem	ba+nonchange	24		
+	ba+change	0		1
+ni+nvstem	ni+nonchange	12		
+	ni+change	0		1
+ba+vstem	ba+nonchange	8		
+	ba+change	0		1
+ni+vstem	ni+nonchange	0	1	
+	ni+change	4		1
+ba+Homvstem	ba+nonchangeHom	8		
+	ba+changeHom	0		1
+ni+Homvstem	ni+nonchangeHom	0	1	
+	ni+changeHom	4		1
